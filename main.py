@@ -19,6 +19,7 @@ def main():
         '35', #Quality
         '36', #Entrega Full - Norte e Nordeste
         '37', #Total Express - Norte e Nordeste
+        '39', #Total Express - Manual
     ]
 
     transportadoras_mili_nordeste = [
